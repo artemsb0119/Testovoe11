@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Testovoe11</string>
+    <string name="check">CHECK</string>
+    <string name="settings">SETTINGS</string>
+    <string name="next">NEXT</string>
+    <string name="retry">RETRY</string>
+    <string name="lear_progress">СLEAR PROGRESS</string>
+</resources>
